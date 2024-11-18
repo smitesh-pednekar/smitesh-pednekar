@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Smitesh</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate <span>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</p>
+</span>from India</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
 - 💻 I'm passionate about creating efficient and innovative software solutions

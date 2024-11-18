@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smitesh</h1>
 <p align="center" style="font-size: 16; line-height: 0.2;">
     A passionate 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer;&font=Fira%20Code&center=true&width=200&height=8&color=f75c7e&vCenter=true&size=14" 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer;&font=Fira%20Code&center=true&width=200&height=8&color=f75c7e&vCenter=true&size=20" 
          alt="Typing Animation" 
          style="vertical-align: middle; display: inline;"> 
     from India

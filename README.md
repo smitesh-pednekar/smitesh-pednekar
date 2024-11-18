@@ -3,7 +3,7 @@
     A passionate 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer;&font=Fira%20Code&center=true&width=200&height=15&color=f75c7e&vCenter=true&size=15" 
          alt="Typing Animation" 
-         style="vertical-align: middle; display: inline;"> 
+         style="vertical-align: middle; display: inline;line-height:1;"> 
     from India
 </p>
 

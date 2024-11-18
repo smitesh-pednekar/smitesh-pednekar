@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smitesh</h1>
-<<p align="center">
+<p align="center">
     A passionate 
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Full+Stack+Developer;&font=Fira%20Code&center=true&width=200&height=20&color=f75c7e&vCenter=true&size=16" 
          alt="Typing Animation" style="vertical-align: middle;"> 

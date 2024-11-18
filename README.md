@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Smitesh</h1>
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width=400 src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smitesh-pednekar&label=Profile%20views&color=0e75b6&style=flat" alt="smitesh-pednekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=smitesh-pednekar" alt="smitesh-pednekar" /></a> </p>
 

@@ -15,7 +15,7 @@
 
 - 💻 I'm passionate about creating efficient and innovative software solutions
 
-- 🌱 Currently expanding my knowledge in [Technology/Framework]
+- 🌱 Currently expanding my knowledge in React
 
 - 👯 Looking to collaborate on open source projects
 

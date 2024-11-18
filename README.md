@@ -29,6 +29,7 @@
 
 
 <h3 align="left">Hacktoberfest Badges :</h3>
+
 [![An image of @smiteshpednekar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smiteshpednekar)](https://holopin.io/@smiteshpednekar)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smitesh-pednekar&show_icons=true&locale=en&layout=compact" alt="smitesh-pednekar" /></p>
